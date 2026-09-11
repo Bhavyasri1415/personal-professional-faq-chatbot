@@ -1,5 +1,7 @@
 # Personal Professional FAQ Chatbot
 
+Live demo :https://bhavya-faq-chatbot-2026.streamlit.app/
+
 A  personal chatbot that answers questions about my education, technical skills, projects, DSA practice, and career interests.
 
 I built this project as a small portfolio application to make my professional profile more interactive and easier to explore.
